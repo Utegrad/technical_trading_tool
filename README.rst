@@ -9,6 +9,9 @@ occur.
 Installation
 ************
 
+Python Elements
+===============
+
 - Create a python virtual env
 - pip install packages from `requirements/local.txt` for local development
 - pip install packages from `requirements.txt` for production installation
