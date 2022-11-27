@@ -1,0 +1,20 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "pytechnicaltradingtool"
+version = "0.0.1"
+authors = [
+    {name="Matt Larsen", email="utegrad@gmail.com"},
+]
+description = "Application for the automation of technical trading strategies"
+readme = "README.md"
+requires-python = ">=3.8"
+
+classifiers = [
+    "Programming Language :: Python :: 3",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/Utegrad/technical_trading_tool"
